@@ -1,0 +1,4 @@
+Virtfs-9p-kmod based on code from Juniper. Provides a virtualfilesystem
+that can be used in virtual machines like [1] bhyve.
+
+[1] https://github.com/Juniper/virtfs/compare/jnpr/virtfs
